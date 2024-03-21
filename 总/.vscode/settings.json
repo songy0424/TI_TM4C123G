@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "hw_gpio.h": "c",
+        "stdbool.h": "c",
+        "main.h": "c",
+        "oled_map.h": "c",
+        "i2c.h": "c",
+        "iic.h": "c",
+        "bsp_timer.h": "c",
+        "bsp_qei.h": "c",
+        "u8g2.h": "c",
+        "oled.h": "c",
+        "control.h": "c",
+        "data_pid.h": "c",
+        "bsp_usart.h": "c",
+        "init.h": "c",
+        "fire_protocol.h": "c",
+        "pwm.h": "c",
+        "bsp_pwm.h": "c",
+        "hw_pwm.h": "c",
+        "sysctl.h": "c",
+        "gpio.h": "c",
+        "systick.h": "c",
+        "bsp_key.h": "c",
+        "bsp_sys.h": "c",
+        "bsp_beep.h": "c",
+        "stdarg.h": "c",
+        "ringbuffer.h": "c",
+        "bsp_openmv.h": "c",
+        "imu901.h": "c",
+        "bsp_sensor.h": "c"
+    }
+}

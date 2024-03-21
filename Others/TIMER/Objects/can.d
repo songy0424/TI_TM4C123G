@@ -1,0 +1,12 @@
+.\objects\can.o: driverlib\can.c
+.\objects\can.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\can.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\can.o: ..\TIMER\inc/hw_can.h
+.\objects\can.o: ..\TIMER\inc/hw_ints.h
+.\objects\can.o: ..\TIMER\inc/hw_nvic.h
+.\objects\can.o: ..\TIMER\inc/hw_memmap.h
+.\objects\can.o: ..\TIMER\inc/hw_sysctl.h
+.\objects\can.o: ..\TIMER\inc/hw_types.h
+.\objects\can.o: ..\TIMER\driverlib/can.h
+.\objects\can.o: ..\TIMER\driverlib/debug.h
+.\objects\can.o: ..\TIMER\driverlib/interrupt.h

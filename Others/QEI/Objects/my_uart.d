@@ -1,0 +1,26 @@
+.\objects\my_uart.o: User\my_uart.c
+.\objects\my_uart.o: User\my_uart.h
+.\objects\my_uart.o: ..\QEI - interrupt\main.h
+.\objects\my_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\my_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\my_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\my_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\my_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\objects\my_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\my_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\my_uart.o: .\driverlib\sysctl.h
+.\objects\my_uart.o: .\driverlib\systick.h
+.\objects\my_uart.o: .\driverlib\gpio.h
+.\objects\my_uart.o: .\driverlib\adc.h
+.\objects\my_uart.o: .\driverlib\uart.h
+.\objects\my_uart.o: .\driverlib\interrupt.h
+.\objects\my_uart.o: .\driverlib\pin_map.h
+.\objects\my_uart.o: .\driverlib\pwm.h
+.\objects\my_uart.o: .\driverlib\udma.h
+.\objects\my_uart.o: .\driverlib\timer.h
+.\objects\my_uart.o: .\driverlib\qei.h
+.\objects\my_uart.o: .\inc\hw_gpio.h
+.\objects\my_uart.o: .\inc\hw_memmap.h
+.\objects\my_uart.o: .\inc\hw_adc.h
+.\objects\my_uart.o: .\inc\hw_types.h
+.\objects\my_uart.o: .\inc\hw_ints.h

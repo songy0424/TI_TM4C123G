@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "hw_gpio.h": "c",
+        "stdbool.h": "c",
+        "main.h": "c",
+        "oled_map.h": "c",
+        "i2c.h": "c",
+        "iic.h": "c",
+        "bsp_adc.h": "c"
+    }
+}

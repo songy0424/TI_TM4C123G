@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "hw_gpio.h": "c",
+        "stdbool.h": "c",
+        "main.h": "c",
+        "pwm.h": "c",
+        "xutility": "c",
+        "my_pwm.h": "c"
+    }
+}
